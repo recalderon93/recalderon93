@@ -1,5 +1,12 @@
-## About me
+## Summary
 <p>Mechanical Engineer and Full-Stack Developer with a creative and adaptable profile. Interested in understanding the web and it’s potential use for the development of effective and innovative solutions for common problems. Experienced developing dynamic and modern web apps, fulfilling customer's expectations. Passionate when it comes to trying new technologies and uses them while developing projects.</p>
+
+### About Me.
+- My first "Hello World" was in Java
+- 🌱 I’m currently learning Docker, GO and Python.
+- My advices: nothing is too hard to try it and READ THE DOCS.
+
+
 <!--
 **recalderon93/recalderon93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
